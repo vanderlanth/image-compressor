@@ -3,7 +3,7 @@
 Optimize your image quickly and easily.
 ---------------------------------------
 
-#####How to install ?
+##### How to install ?
 
 
 Make sure you have the following elements installed on your computer:
